@@ -1,0 +1,143 @@
+<?php
+/**
+ * @file
+ * Returns the HTML for a single Drupal page.
+ *
+ * Complete documentation for this file is available online.
+ * @see https://drupal.org/node/1728148
+ */
+?>
+  <!-- Go to www.addthis.com/dashboard to customize your tools -->
+  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-534a4bbb7ff2ffd3"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  <script type="text/javascript" src="/~nashimde/sites/all/libraries/garand-sticky/jquery.sticky.js"></script>
+  <script>
+    $(window).load(function(){
+      $("#block-panels-mini-user-top-bar").sticky({ topSpacing: 0 });
+    });
+  </script>
+  
+  <header class="header" id="header" role="banner">
+    <div id="header-inner">
+        <div id="header-inner-inner">
+            <?php if ($logo): ?>
+              <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" rel="home"    class="header__logo" id="logo"><img src="<?php print $logo; ?>" alt="<?php print t('Home'); ?>" class="header__logo-image" /></a>
+            <?php endif; ?>
+
+            <?php if ($site_name || $site_slogan): ?>
+              <div class="header__name-and-slogan" id="name-and-slogan">
+                <?php if ($site_name): ?>
+                  <h1 class="header__site-name" id="site-name">
+                    <a href="<?php print $front_page; ?>" title="<?php print t('Home'); ?>" class="header__site-link" rel="home"><span><?php print $site_name; ?></span></a>
+                  </h1>
+                <?php endif; ?>
+
+                <?php if ($site_slogan): ?>
+                  <div class="header__site-slogan" id="site-slogan"><?php print $site_slogan; ?></div>
+                <?php endif; ?>
+              </div>
+            <?php endif; ?>
+            <?php if ($main_menu): ?>
+              <nav id="main-menu" role="navigation" tabindex="-1">
+                <?php
+                // This code snippet is hard to modify. We recommend turning off the
+                // "Main menu" on your sub-theme's settings form, deleting this PHP
+                // code block, and, instead, using the "Menu block" module.
+                // @see https://drupal.org/project/menu_block
+                print theme('links__system_main_menu', array(
+                  'links' => $main_menu,
+                  'attributes' => array(
+                    'class' => array('links', 'inline', 'clearfix'),
+                  ),
+                  'heading' => array(
+                    'text' => t('Main menu'),
+                    'level' => 'h2',
+                    'class' => array('element-invisible'),
+                  ),
+                )); ?>
+              </nav>
+            <?php endif; ?>
+            <div id="header-icons">
+                <!-- <div class="icon-pin icon">
+                    <a href="http://www.w3schools.com/" target="_blank">Nashim Pinterest</a>
+                </div>
+                <div class="icon-tambler icon">
+                    <a href="http://www.w3schools.com/" target="_blank">Nashim Tambler</a>
+                </div>
+                <div class="icon-instagram icon">
+                    <a href="http://www.w3schools.com/" target="_blank">Nashim מדאשערשצ!</a>
+                </div> -->
+                <div class="icon-facebook icon">
+                    <a class="icon_link" href="https://www.facebook.com/groups/womenphotographing/" title="עמוד הפייסבוק שלנו" target="_blank">Nashim Facebook</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php if ($secondary_menu): ?>
+      <nav class="header__secondary-menu" id="secondary-menu" role="navigation">
+        <?php print theme('links__system_secondary_menu', array(
+          'links' => $secondary_menu,
+          'attributes' => array(
+            'class' => array('links', 'inline', 'clearfix'),
+          ),
+          'heading' => array(
+            'text' => $secondary_menu_heading,
+            'level' => 'h2',
+            'class' => array('element-invisible'),
+          ),
+        )); ?>
+      </nav>
+    <?php endif; ?>
+
+    <?php print render($page['header']); ?>
+
+  </header>
+<div id="page">
+
+  <div id="main">
+    <div id="content" class="column" role="main">
+      <div id="content_about">
+        <?php print render($page['highlighted']); ?>
+        <?php print $breadcrumb; ?>
+        <a id="main-content"></a>
+        <?php print render($title_prefix); ?>
+        <?php if ($title): ?>
+          <h1 class="page__title title" id="page-title"><?php print $title; ?></h1>
+        <?php endif; ?>
+        <?php print render($title_suffix); ?>
+        <?php print $messages; ?>
+        <?php print render($tabs); ?>
+        <?php print render($page['help']); ?>
+        <?php if ($action_links): ?>
+          <ul class="action-links"><?php print render($action_links); ?></ul>
+        <?php endif; ?>
+        <?php print render($page['content']); ?>
+        <?php print $feed_icons; ?>
+      </div>
+    </div>
+
+    <div id="navigation">
+
+      <?php print render($page['navigation']); ?>
+
+    </div>
+
+    <?php
+      // Render the sidebars to see if there's anything in them.
+      $sidebar_first  = render($page['sidebar_first']);
+      $sidebar_second = render($page['sidebar_second']);
+    ?>
+
+    <?php if ($sidebar_first || $sidebar_second): ?>
+      <aside class="sidebars">
+        <?php print $sidebar_first; ?>
+        <?php print $sidebar_second; ?>
+      </aside>
+    <?php endif; ?>
+
+  </div>
+
+</div>
+
+<?php print render($page['footer']); ?>
+<?php print render($page['bottom']); ?>

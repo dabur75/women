@@ -1,0 +1,21 @@
+name = Module Object Oriented Programming API
+description = Makes pure OOP syntax modules possible within the Drupal framework
+core = 7.x
+
+dependencies[] = libraries
+
+;files[] = moopapi.install
+files[] = moopapi.module
+files[] = tests/moopapi.test
+; It must be excluded before Patchwork library is loaded.
+;files[] = tests/monkey_patch.inc
+files[] = component/moopapi.component.inc
+files[] = component/decorator/adapter/moopapi.adapter.inc
+files[] = component/decorator/logger/moopapi.logger.inc
+
+; Information added by Drupal.org packaging script on 2014-02-17
+version = "7.x-2.x-dev"
+core = "7.x"
+project = "moopapi"
+datestamp = "1392615507"
+
