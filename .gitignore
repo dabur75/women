@@ -7,3 +7,5 @@ sites/*/private
 files/
 
 /.htaccess
+
+sites/all/modules/stage_file_proxy*
