@@ -4566,7 +4566,7 @@ h2 {
   margin-top: 30px;
 }
 
-/* line 2079, ../sass/components/_nashim.scss */
+/* line 2080, ../sass/components/_nashim.scss */
 #ministe_profile_details,
 #block-views-menu-new-user-block {
   background-color: #544c4c;
@@ -4577,34 +4577,34 @@ h2 {
   -webkit-box-shadow: 7px 7px 6px -5px #9e9e9e;
   box-shadow: 7px 7px 6px -5px #9e9e9e;
 }
-/* line 2086, ../sass/components/_nashim.scss */
+/* line 2087, ../sass/components/_nashim.scss */
 #ministe_profile_details a, #ministe_profile_details p,
 #block-views-menu-new-user-block a,
 #block-views-menu-new-user-block p {
   color: #fff !important;
 }
-/* line 2089, ../sass/components/_nashim.scss */
+/* line 2090, ../sass/components/_nashim.scss */
 #ministe_profile_details .views-field,
 #block-views-menu-new-user-block .views-field {
   background: none;
 }
-/* line 2092, ../sass/components/_nashim.scss */
+/* line 2093, ../sass/components/_nashim.scss */
 #ministe_profile_details img,
 #block-views-menu-new-user-block img {
   -webkit-border-radius: 6px 6px 0 0;
   border-radius: 6px 6px 0 0;
 }
-/* line 2096, ../sass/components/_nashim.scss */
+/* line 2097, ../sass/components/_nashim.scss */
 #ministe_profile_details .views-field-field-realname,
 #block-views-menu-new-user-block .views-field-field-realname {
   padding: 7px 20px 0 35px;
 }
-/* line 2098, ../sass/components/_nashim.scss */
+/* line 2099, ../sass/components/_nashim.scss */
 #ministe_profile_details .views-field-field-realname a,
 #block-views-menu-new-user-block .views-field-field-realname a {
   font-size: 17px;
 }
-/* line 2102, ../sass/components/_nashim.scss */
+/* line 2103, ../sass/components/_nashim.scss */
 #ministe_profile_details .views-field-field-my-qoute,
 #block-views-menu-new-user-block .views-field-field-my-qoute {
   padding: 10px 20px 10px 35px;
@@ -4612,13 +4612,13 @@ h2 {
   padding-bottom: 35px;
   font-size: 13px;
 }
-/* line 2107, ../sass/components/_nashim.scss */
+/* line 2108, ../sass/components/_nashim.scss */
 #ministe_profile_details .views-field-field-my-qoute .field-content,
 #block-views-menu-new-user-block .views-field-field-my-qoute .field-content {
   height: 260px;
   overflow: hidden;
 }
-/* line 2113, ../sass/components/_nashim.scss */
+/* line 2114, ../sass/components/_nashim.scss */
 #ministe_profile_details .view-footer .view-menu-new-user,
 #block-views-menu-new-user-block .view-footer .view-menu-new-user {
   border-bottom: 1px solid #fff;
@@ -4626,24 +4626,24 @@ h2 {
   line-height: 3;
   text-indent: 20px;
 }
-/* line 2119, ../sass/components/_nashim.scss */
+/* line 2120, ../sass/components/_nashim.scss */
 #ministe_profile_details .view-footer a,
 #block-views-menu-new-user-block .view-footer a {
   padding-right: 0;
   font-size: 17px;
 }
-/* line 2123, ../sass/components/_nashim.scss */
+/* line 2124, ../sass/components/_nashim.scss */
 #ministe_profile_details .view-footer .view-display-id-block_4,
 #block-views-menu-new-user-block .view-footer .view-display-id-block_4 {
   border-bottom: 0;
 }
-/* line 2128, ../sass/components/_nashim.scss */
+/* line 2129, ../sass/components/_nashim.scss */
 #ministe_profile_details .myblog .view-empty p,
 #block-views-menu-new-user-block .myblog .view-empty p {
   margin: 0;
 }
 
-/* line 2133, ../sass/components/_nashim.scss */
+/* line 2134, ../sass/components/_nashim.scss */
 #block-views-menu-new-user-block {
   text-align: right;
   float: right;
@@ -4651,12 +4651,17 @@ h2 {
   margin-bottom: 0;
   margin-top: 20px;
 }
-/* line 2140, ../sass/components/_nashim.scss */
+/* line 2141, ../sass/components/_nashim.scss */
 #block-views-menu-new-user-block .view-footer .field-content {
   line-height: 3;
 }
 
 /* line 2147, ../sass/components/_nashim.scss */
+#ministe_profile_details a {
+  font-family: Next-Light;
+}
+
+/* line 2152, ../sass/components/_nashim.scss */
 #minisite_icons,
 #block-views-mini-sites-content-block-3 {
   -webkit-border-radius: 8px;
@@ -4668,19 +4673,19 @@ h2 {
   width: 234px;
   margin-top: 40px;
 }
-/* line 2155, ../sass/components/_nashim.scss */
+/* line 2160, ../sass/components/_nashim.scss */
 #minisite_icons h2,
 #block-views-mini-sites-content-block-3 h2 {
   padding: 23px 20px 0 0;
   margin: 0;
   font-weight: bold;
 }
-/* line 2160, ../sass/components/_nashim.scss */
+/* line 2165, ../sass/components/_nashim.scss */
 #minisite_icons .view-content,
 #block-views-mini-sites-content-block-3 .view-content {
   padding: 5px 10px 0 0;
 }
-/* line 2163, ../sass/components/_nashim.scss */
+/* line 2168, ../sass/components/_nashim.scss */
 #minisite_icons .pinterest,
 #block-views-mini-sites-content-block-3 .pinterest {
   background: url("../images/icons/pinterest.png") no-repeat scroll 0 0;
@@ -4690,7 +4695,7 @@ h2 {
   padding-left: 10px;
   width: 20px;
 }
-/* line 2167, ../sass/components/_nashim.scss */
+/* line 2172, ../sass/components/_nashim.scss */
 #minisite_icons .twitter,
 #block-views-mini-sites-content-block-3 .twitter {
   background: url("../images/icons/twitter_2.png") no-repeat scroll 0 0;
@@ -4700,7 +4705,7 @@ h2 {
   padding-left: 10px;
   width: 20px;
 }
-/* line 2171, ../sass/components/_nashim.scss */
+/* line 2176, ../sass/components/_nashim.scss */
 #minisite_icons .instagram,
 #block-views-mini-sites-content-block-3 .instagram {
   background: url("../images/icons/instagram_2.png") no-repeat scroll 0 0;
@@ -4710,7 +4715,7 @@ h2 {
   padding-left: 10px;
   width: 20px;
 }
-/* line 2175, ../sass/components/_nashim.scss */
+/* line 2180, ../sass/components/_nashim.scss */
 #minisite_icons .facebook,
 #block-views-mini-sites-content-block-3 .facebook {
   background: url("../images/icons/facebook_2.png") no-repeat scroll 0 0;
@@ -4720,7 +4725,7 @@ h2 {
   padding-left: 10px;
   width: 20px;
 }
-/* line 2179, ../sass/components/_nashim.scss */
+/* line 2184, ../sass/components/_nashim.scss */
 #minisite_icons .views-field-field-email a,
 #block-views-mini-sites-content-block-3 .views-field-field-email a {
   background: url("../images/icons/email.png") no-repeat scroll 0 0;
@@ -4730,7 +4735,7 @@ h2 {
   padding-left: 10px;
   width: 20px;
 }
-/* line 2183, ../sass/components/_nashim.scss */
+/* line 2188, ../sass/components/_nashim.scss */
 #minisite_icons .views-field-field-phone,
 #block-views-mini-sites-content-block-3 .views-field-field-phone {
   background: url("../images/icons/phone.png") no-repeat scroll 0 0;
@@ -4741,19 +4746,19 @@ h2 {
   width: 20px;
 }
 
-/* line 2189, ../sass/components/_nashim.scss */
+/* line 2194, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block-3 {
   float: right;
   padding: 0;
   text-align: right;
   margin-bottom: 0;
 }
-/* line 2194, ../sass/components/_nashim.scss */
+/* line 2199, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block-3 h2 {
   color: #544c4c !important;
 }
 
-/* line 2199, ../sass/components/_nashim.scss */
+/* line 2204, ../sass/components/_nashim.scss */
 #minisite_gallery,
 #block-views-profile-galleries-block-1 {
   -webkit-border-radius: 8px;
@@ -4765,7 +4770,7 @@ h2 {
   padding-bottom: 20px;
   margin-top: 40px;
 }
-/* line 2207, ../sass/components/_nashim.scss */
+/* line 2212, ../sass/components/_nashim.scss */
 #minisite_gallery h2,
 #block-views-profile-galleries-block-1 h2 {
   padding: 20px 30px;
@@ -4773,39 +4778,39 @@ h2 {
   font-size: 120%;
   font-weight: bold;
 }
-/* line 2213, ../sass/components/_nashim.scss */
+/* line 2218, ../sass/components/_nashim.scss */
 #minisite_gallery .views-row,
 #block-views-profile-galleries-block-1 .views-row {
   margin-top: 15px;
 }
-/* line 2216, ../sass/components/_nashim.scss */
+/* line 2221, ../sass/components/_nashim.scss */
 #minisite_gallery .view-profile-galleries,
 #block-views-profile-galleries-block-1 .view-profile-galleries {
   padding: 0 30px;
 }
-/* line 2219, ../sass/components/_nashim.scss */
+/* line 2224, ../sass/components/_nashim.scss */
 #minisite_gallery a,
 #block-views-profile-galleries-block-1 a {
   color: #545252 !important;
   font-weight: bold;
 }
 
-/* line 2224, ../sass/components/_nashim.scss */
+/* line 2229, ../sass/components/_nashim.scss */
 #block-views-profile-galleries-block-1 {
   float: right;
   text-align: right;
 }
-/* line 2227, ../sass/components/_nashim.scss */
+/* line 2232, ../sass/components/_nashim.scss */
 #block-views-profile-galleries-block-1 h2 {
   margin-top: 0;
   color: #544c4c;
 }
 
-/* line 2234, ../sass/components/_nashim.scss */
+/* line 2239, ../sass/components/_nashim.scss */
 .view-profile-blog {
   margin-top: 25px;
 }
-/* line 2235, ../sass/components/_nashim.scss */
+/* line 2240, ../sass/components/_nashim.scss */
 .view-profile-blog .view-empty {
   background-color: #fff;
   -webkit-border-radius: 8px;
@@ -4815,7 +4820,7 @@ h2 {
   height: 100px;
   padding: 20px;
 }
-/* line 2243, ../sass/components/_nashim.scss */
+/* line 2248, ../sass/components/_nashim.scss */
 .view-profile-blog .views-row {
   -webkit-border-radius: 8px;
   border-radius: 8px;
@@ -4825,40 +4830,40 @@ h2 {
   margin-bottom: 20px;
   padding-bottom: 30px;
 }
-/* line 2250, ../sass/components/_nashim.scss */
+/* line 2255, ../sass/components/_nashim.scss */
 .view-profile-blog img {
   -webkit-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
 }
-/* line 2254, ../sass/components/_nashim.scss */
+/* line 2259, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-title {
   padding: 27px 25px 0;
   font-size: 120%;
   font-weight: bold;
 }
-/* line 2259, ../sass/components/_nashim.scss */
+/* line 2264, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-created {
   padding: 10px 25px 0;
 }
-/* line 2262, ../sass/components/_nashim.scss */
+/* line 2267, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-field-post-teaser {
   padding: 0 25px;
 }
-/* line 2265, ../sass/components/_nashim.scss */
+/* line 2270, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-view-node {
   padding: 0 25px;
 }
-/* line 2268, ../sass/components/_nashim.scss */
+/* line 2273, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-nothing {
   float: left;
   height: 15px;
   padding-left: 20px;
 }
-/* line 2272, ../sass/components/_nashim.scss */
+/* line 2277, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-nothing .addthis_32x32_style .at15nc.at300bs {
   background: url("../images/icons/share.png") no-repeat scroll 0 0 !important;
 }
-/* line 2276, ../sass/components/_nashim.scss */
+/* line 2281, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-ops {
   float: left;
   height: 15px;
@@ -4881,7 +4886,7 @@ h2 {
   height: 13px;
   width: 15px;
 }
-/* line 2282, ../sass/components/_nashim.scss */
+/* line 2287, ../sass/components/_nashim.scss */
 .view-profile-blog .views-field-comments-link {
   float: left;
   margin: -4px 0;
@@ -4901,40 +4906,40 @@ h2 {
 /* 
  * gallery pages oll over the webiste
  ********************************************************************************/
-/* line 2291, ../sass/components/_nashim.scss */
+/* line 2296, ../sass/components/_nashim.scss */
 .node-type-profile-gallery .field-name-field-gallery-text {
   padding: 0 20px;
 }
-/* line 2295, ../sass/components/_nashim.scss */
+/* line 2300, ../sass/components/_nashim.scss */
 .node-type-profile-gallery .view-profile-gallery .masonry {
   margin-right: 15px;
   margin-top: 20px;
 }
-/* line 2299, ../sass/components/_nashim.scss */
+/* line 2304, ../sass/components/_nashim.scss */
 .node-type-profile-gallery .view-profile-gallery .masonry-item {
   margin-bottom: 10px;
 }
-/* line 2303, ../sass/components/_nashim.scss */
+/* line 2308, ../sass/components/_nashim.scss */
 .node-type-profile-gallery .view-footer {
   font-size: 90%;
   padding: 0 20px;
 }
-/* line 2307, ../sass/components/_nashim.scss */
+/* line 2312, ../sass/components/_nashim.scss */
 .node-type-profile-gallery #comments {
   width: 95%;
   padding: 0 20px;
 }
-/* line 2311, ../sass/components/_nashim.scss */
+/* line 2316, ../sass/components/_nashim.scss */
 .node-type-profile-gallery #edit-comment-body {
   width: 90% !important;
 }
-/* line 2314, ../sass/components/_nashim.scss */
+/* line 2319, ../sass/components/_nashim.scss */
 .node-type-profile-gallery input#edit-submit {
   margin-left: 8em;
   margin-top: 1em;
 }
 
-/* line 2320, ../sass/components/_nashim.scss */
+/* line 2325, ../sass/components/_nashim.scss */
 #imageData #imageDetails {
   width: 85%;
 }
@@ -4942,25 +4947,25 @@ h2 {
 /* 
  * ARCHIVE GALLERY PAGE
  ********************************************************************************/
-/* line 2328, ../sass/components/_nashim.scss */
+/* line 2333, ../sass/components/_nashim.scss */
 #block-views-archive-gallery-node-block .masonry {
   margin-right: 10px;
   margin-top: 20px;
 }
-/* line 2332, ../sass/components/_nashim.scss */
+/* line 2337, ../sass/components/_nashim.scss */
 #block-views-archive-gallery-node-block .masonry-item {
   margin-bottom: 10px;
 }
 
-/* line 2338, ../sass/components/_nashim.scss */
+/* line 2343, ../sass/components/_nashim.scss */
 .minisite_wall {
   margin-top: -20px;
 }
-/* line 2340, ../sass/components/_nashim.scss */
+/* line 2345, ../sass/components/_nashim.scss */
 .minisite_wall .masonry {
   left: 0px;
 }
-/* line 2343, ../sass/components/_nashim.scss */
+/* line 2348, ../sass/components/_nashim.scss */
 .minisite_wall .masonry-item {
   -webkit-border-radius: 8px;
   border-radius: 8px;
@@ -4971,30 +4976,30 @@ h2 {
   float: right;
   margin-top: 20px;
 }
-/* line 2351, ../sass/components/_nashim.scss */
+/* line 2356, ../sass/components/_nashim.scss */
 .minisite_wall .views-row {
   margin-bottom: 5px;
   padding-bottom: 20px;
 }
-/* line 2355, ../sass/components/_nashim.scss */
+/* line 2360, ../sass/components/_nashim.scss */
 .minisite_wall a {
   color: #544c4c;
 }
-/* line 2358, ../sass/components/_nashim.scss */
+/* line 2363, ../sass/components/_nashim.scss */
 .minisite_wall img {
   -webkit-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
 }
-/* line 2362, ../sass/components/_nashim.scss */
+/* line 2367, ../sass/components/_nashim.scss */
 .minisite_wall .parent-promote {
   width: 100%;
   clear: both;
 }
-/* line 2366, ../sass/components/_nashim.scss */
+/* line 2371, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-type .post {
   font-size: 120%;
 }
-/* line 2369, ../sass/components/_nashim.scss */
+/* line 2374, ../sass/components/_nashim.scss */
 .minisite_wall .status {
   background: url("../images/icons/status.png") no-repeat scroll 0 0;
   display: block;
@@ -5006,7 +5011,7 @@ h2 {
   top: -26px;
   width: 37px;
 }
-/* line 2380, ../sass/components/_nashim.scss */
+/* line 2385, ../sass/components/_nashim.scss */
 .minisite_wall .profile_gallery {
   background: url("../images/icons/gallery.png") no-repeat scroll 0 0;
   display: block;
@@ -5018,7 +5023,7 @@ h2 {
   top: -26px;
   width: 37px;
 }
-/* line 2391, ../sass/components/_nashim.scss */
+/* line 2396, ../sass/components/_nashim.scss */
 .minisite_wall .post {
   background: url("../images/icons/post.png") no-repeat scroll 0 0;
   display: block;
@@ -5030,7 +5035,7 @@ h2 {
   top: -26px;
   width: 37px;
 }
-/* line 2402, ../sass/components/_nashim.scss */
+/* line 2407, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-title {
   width: 90%;
   font-size: 120%;
@@ -5038,15 +5043,15 @@ h2 {
   font-weight: bold;
   padding: 8px 20px 10px 20px;
 }
-/* line 2408, ../sass/components/_nashim.scss */
+/* line 2413, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-title a {
   color: #4c4b4b;
 }
-/* line 2412, ../sass/components/_nashim.scss */
+/* line 2417, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-created {
   padding: 0 20px;
 }
-/* line 2415, ../sass/components/_nashim.scss */
+/* line 2420, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-field-post-teaser {
   padding: 0  20px;
   margin-bottom: 20px;
@@ -5054,7 +5059,7 @@ h2 {
   overflow: hidden;
   margin-top: -35px;
 }
-/* line 2422, ../sass/components/_nashim.scss */
+/* line 2427, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-ops {
   float: left;
   height: 15px;
@@ -5077,7 +5082,7 @@ h2 {
   height: 13px;
   width: 15px;
 }
-/* line 2428, ../sass/components/_nashim.scss */
+/* line 2433, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-comments-link {
   float: left;
   margin: -4px 0;
@@ -5093,45 +5098,45 @@ h2 {
   height: 13px;
   width: 15px;
 }
-/* line 2431, ../sass/components/_nashim.scss */
+/* line 2436, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-nothing {
   float: left;
   height: 15px;
   padding-left: 20px;
 }
-/* line 2435, ../sass/components/_nashim.scss */
+/* line 2440, ../sass/components/_nashim.scss */
 .minisite_wall .views-field-nothing .addthis_32x32_style .at15nc.at300bs {
   background: url("../images/icons/share.png") no-repeat scroll 0 0 !important;
 }
 
-/* line 2443, ../sass/components/_nashim.scss */
+/* line 2448, ../sass/components/_nashim.scss */
 .not-logged-in .views-field-comments-link {
   display: none;
 }
 
-/* line 2448, ../sass/components/_nashim.scss */
+/* line 2453, ../sass/components/_nashim.scss */
 .page-user .tabs-primary {
   display: none;
 }
 
-/* line 2451, ../sass/components/_nashim.scss */
+/* line 2456, ../sass/components/_nashim.scss */
 .page-user-login .tabs-primary,
 .page-user-password .tabs-primary {
   display: block;
 }
 
-/* line 2456, ../sass/components/_nashim.scss */
+/* line 2461, ../sass/components/_nashim.scss */
 .page-user .views-field-name,
 .page-profile-posts .views-field-nothing-4 {
   background: url("../images/menu_item.png") no-repeat scroll 0 50%;
 }
-/* line 2459, ../sass/components/_nashim.scss */
+/* line 2464, ../sass/components/_nashim.scss */
 .page-user .views-field-name a,
 .page-profile-posts .views-field-nothing-4 a {
   color: #9c0441 !important;
 }
 
-/* line 2464, ../sass/components/_nashim.scss */
+/* line 2469, ../sass/components/_nashim.scss */
 .page-user h1,
 .page-profile-posts h1 {
   border-bottom: 0;
@@ -5141,38 +5146,38 @@ h2 {
   top: 3px;
 }
 
-/* line 2473, ../sass/components/_nashim.scss */
+/* line 2478, ../sass/components/_nashim.scss */
 .page-user #content,
 .page-profile-posts #content {
   margin-top: -4px;
 }
 
-/* line 2478, ../sass/components/_nashim.scss */
+/* line 2483, ../sass/components/_nashim.scss */
 #block-views-profile-galleries-block-2,
 #block-views-user-top-gallery-block-1 {
   margin-top: 20px !important;
 }
-/* line 2481, ../sass/components/_nashim.scss */
+/* line 2486, ../sass/components/_nashim.scss */
 #block-views-profile-galleries-block-2 .view-header,
 #block-views-user-top-gallery-block-1 .view-header {
   margin-bottom: 8px;
 }
 
-/* line 2486, ../sass/components/_nashim.scss */
+/* line 2491, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block {
   border-top: 1px solid #e9e7e7;
   padding: 20px 0 0 0;
 }
-/* line 2489, ../sass/components/_nashim.scss */
+/* line 2494, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block .views-field-field-profile-img {
   width: 20%;
   float: right;
 }
-/* line 2493, ../sass/components/_nashim.scss */
+/* line 2498, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block img {
   border: 0;
 }
-/* line 2496, ../sass/components/_nashim.scss */
+/* line 2501, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block .views-field-field-my-qoute {
   font-weight: bold;
   color: #9c0441;
@@ -5183,7 +5188,7 @@ h2 {
   height: 45px;
   overflow: hidden;
 }
-/* line 2506, ../sass/components/_nashim.scss */
+/* line 2511, ../sass/components/_nashim.scss */
 #block-views-mini-sites-content-block .views-field-field-profile-photo {
   width: 73%;
   float: right;
@@ -5193,41 +5198,41 @@ h2 {
 /* 
  * Comments on the website
  ***************************************************************************/
-/* line 2519, ../sass/components/_nashim.scss */
+/* line 2524, ../sass/components/_nashim.scss */
 .page-comment-reply #block-views-post-author-and-date-block {
   padding: 0 20px;
 }
-/* line 2522, ../sass/components/_nashim.scss */
+/* line 2527, ../sass/components/_nashim.scss */
 .page-comment-reply .comment {
   padding: 0 20px;
 }
-/* line 2524, ../sass/components/_nashim.scss */
+/* line 2529, ../sass/components/_nashim.scss */
 .page-comment-reply .comment .cm_image {
   width: 95px;
   float: right;
 }
-/* line 2527, ../sass/components/_nashim.scss */
+/* line 2532, ../sass/components/_nashim.scss */
 .page-comment-reply .comment .cm_image img {
   width: 85%;
 }
-/* line 2531, ../sass/components/_nashim.scss */
+/* line 2536, ../sass/components/_nashim.scss */
 .page-comment-reply .comment a {
   color: #544c4c;
 }
-/* line 2534, ../sass/components/_nashim.scss */
+/* line 2539, ../sass/components/_nashim.scss */
 .page-comment-reply .comment .field-name-comment-body {
   float: right;
 }
-/* line 2538, ../sass/components/_nashim.scss */
+/* line 2543, ../sass/components/_nashim.scss */
 .page-comment-reply #comment-form {
   padding: 0 20px 20px;
 }
-/* line 2542, ../sass/components/_nashim.scss */
+/* line 2547, ../sass/components/_nashim.scss */
 .page-comment-reply #block-views-post-footer-block {
   display: none;
 }
 
-/* line 2547, ../sass/components/_nashim.scss */
+/* line 2552, ../sass/components/_nashim.scss */
 .views-field-comment-count {
   background: url("../images/icons/comment.png") no-repeat scroll 0 0 transparent;
   color: #fff;
@@ -5239,86 +5244,86 @@ h2 {
   float: left;
 }
 
-/* line 2553, ../sass/components/_nashim.scss */
+/* line 2558, ../sass/components/_nashim.scss */
 .inline .comment-add {
   display: none;
 }
 
-/* line 2558, ../sass/components/_nashim.scss */
+/* line 2563, ../sass/components/_nashim.scss */
 #comments {
   margin: 0 auto;
   padding: 20px 0;
   width: 100%;
 }
-/* line 2562, ../sass/components/_nashim.scss */
+/* line 2567, ../sass/components/_nashim.scss */
 #comments h2 {
   border-bottom: 1px solid #544c4c;
   padding-bottom: 15px;
   margin-bottom: 25px;
   font-weight: bold;
 }
-/* line 2568, ../sass/components/_nashim.scss */
+/* line 2573, ../sass/components/_nashim.scss */
 #comments .cm_image {
   width: 95px;
   float: right;
 }
-/* line 2571, ../sass/components/_nashim.scss */
+/* line 2576, ../sass/components/_nashim.scss */
 #comments .cm_image img {
   width: 85%;
 }
-/* line 2575, ../sass/components/_nashim.scss */
+/* line 2580, ../sass/components/_nashim.scss */
 #comments a {
   color: #544c4c;
   font-weight: bold;
 }
-/* line 2579, ../sass/components/_nashim.scss */
+/* line 2584, ../sass/components/_nashim.scss */
 #comments .comment {
   margin-bottom: 30px;
 }
-/* line 2582, ../sass/components/_nashim.scss */
+/* line 2587, ../sass/components/_nashim.scss */
 #comments .field-name-comment-body {
   margin-top: 5px;
 }
-/* line 2585, ../sass/components/_nashim.scss */
+/* line 2590, ../sass/components/_nashim.scss */
 #comments .cm_text {
   top: -4px;
   position: relative;
 }
-/* line 2589, ../sass/components/_nashim.scss */
+/* line 2594, ../sass/components/_nashim.scss */
 #comments .links {
   clear: both;
   float: left;
   margin-top: 0;
 }
-/* line 2594, ../sass/components/_nashim.scss */
+/* line 2599, ../sass/components/_nashim.scss */
 #comments .links a {
   color: #9c0441;
   text-decoration: underline;
 }
 
-/* line 2601, ../sass/components/_nashim.scss */
+/* line 2606, ../sass/components/_nashim.scss */
 #comment-form #edit-comment-body {
   width: 100%;
 }
-/* line 2603, ../sass/components/_nashim.scss */
+/* line 2608, ../sass/components/_nashim.scss */
 #comment-form #edit-comment-body .form-type-textarea {
   margin-top: 0;
 }
-/* line 2606, ../sass/components/_nashim.scss */
+/* line 2611, ../sass/components/_nashim.scss */
 #comment-form #edit-comment-body .form-textarea-wrapper {
   border: 1px solid #9c0441;
 }
-/* line 2609, ../sass/components/_nashim.scss */
+/* line 2614, ../sass/components/_nashim.scss */
 #comment-form #edit-comment-body .grippie {
   display: none;
 }
 
-/* line 2615, ../sass/components/_nashim.scss */
+/* line 2620, ../sass/components/_nashim.scss */
 #comment-form input {
   height: auto;
 }
 
-/* line 2619, ../sass/components/_nashim.scss */
+/* line 2624, ../sass/components/_nashim.scss */
 #comment-form input#edit-submit {
   float: left;
 }
@@ -5326,7 +5331,7 @@ h2 {
 /* 
  *  Main Index page
  ******************************************************************/
-/* line 2629, ../sass/components/_nashim.scss */
+/* line 2634, ../sass/components/_nashim.scss */
 .page-node-109 .masonry-item {
   width: 32%;
   -webkit-border-radius: 8px;
@@ -5337,56 +5342,56 @@ h2 {
   margin-bottom: 30px;
   padding-bottom: 20px;
 }
-/* line 2636, ../sass/components/_nashim.scss */
+/* line 2641, ../sass/components/_nashim.scss */
 .page-node-109 .masonry-item img {
   -webkit-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
 }
-/* line 2641, ../sass/components/_nashim.scss */
+/* line 2646, ../sass/components/_nashim.scss */
 .page-node-109 .views-field-field-dummy-image img {
   -webkit-border-radius: 0;
   border-radius: 0;
 }
-/* line 2645, ../sass/components/_nashim.scss */
+/* line 2650, ../sass/components/_nashim.scss */
 .page-node-109 .post {
   background: url("../images/icons/post.png") no-repeat scroll 0 0 transparent;
 }
-/* line 2648, ../sass/components/_nashim.scss */
+/* line 2653, ../sass/components/_nashim.scss */
 .page-node-109 .profile_gallery, .page-node-109 .gallery, .page-node-109 .archive {
   background: url("../images/icons/gallery.png") no-repeat scroll 0 0 transparent;
 }
-/* line 2651, ../sass/components/_nashim.scss */
+/* line 2656, ../sass/components/_nashim.scss */
 .page-node-109 .event {
   background: url("../images/icons/event.png") no-repeat scroll 0 0 transparent;
 }
-/* line 2654, ../sass/components/_nashim.scss */
+/* line 2659, ../sass/components/_nashim.scss */
 .page-node-109 .status {
   background: url("../images/icons/status.png") no-repeat scroll 0 0 transparent;
 }
-/* line 2657, ../sass/components/_nashim.scss */
+/* line 2662, ../sass/components/_nashim.scss */
 .page-node-109 .newsletter {
   background: url("../images/icons/news.png") no-repeat scroll 0 0 transparent;
 }
-/* line 2660, ../sass/components/_nashim.scss */
+/* line 2665, ../sass/components/_nashim.scss */
 .page-node-109 a {
   color: #544c4c !important;
 }
-/* line 2663, ../sass/components/_nashim.scss */
+/* line 2668, ../sass/components/_nashim.scss */
 .page-node-109 .views-field-title-1 {
   font-size: 120%;
   font-weight: bold;
   width: 90%;
   padding: 10px 20px 0px;
 }
-/* line 2668, ../sass/components/_nashim.scss */
+/* line 2673, ../sass/components/_nashim.scss */
 .page-node-109 .views-field-title-1 .title-status {
   display: none;
 }
-/* line 2672, ../sass/components/_nashim.scss */
+/* line 2677, ../sass/components/_nashim.scss */
 .page-node-109 .views-field-field-realname {
   padding: 0px 20px 0 10px;
 }
-/* line 2675, ../sass/components/_nashim.scss */
+/* line 2680, ../sass/components/_nashim.scss */
 .page-node-109 .views-field-field-status-text,
 .page-node-109 .views-field-field-post-teaser,
 .page-node-109 .views-field-field-event-teaser,
@@ -5396,11 +5401,11 @@ h2 {
   overflow: hidden;
 }
 @media all and (max-width: 480px) {
-  /* line 2684, ../sass/components/_nashim.scss */
+  /* line 2689, ../sass/components/_nashim.scss */
   .page-node-109 .masonry {
     width: 100% !important;
   }
-  /* line 2687, ../sass/components/_nashim.scss */
+  /* line 2692, ../sass/components/_nashim.scss */
   .page-node-109 .masonry-item {
     width: 100% !important;
     margin-bottom: 10px;
@@ -5410,24 +5415,24 @@ h2 {
 /* 
  * Footer
  **************************************************************************/
-/* line 2699, ../sass/components/_nashim.scss */
+/* line 2704, ../sass/components/_nashim.scss */
 #footer {
   margin-top: 20px;
   padding: 0;
 }
-/* line 2702, ../sass/components/_nashim.scss */
+/* line 2707, ../sass/components/_nashim.scss */
 #footer ul {
   text-align: center;
   margin-bottom: 0;
 }
-/* line 2706, ../sass/components/_nashim.scss */
+/* line 2711, ../sass/components/_nashim.scss */
 #footer li {
   list-style-image: none;
   list-style-type: none;
   display: inline;
 }
 
-/* line 2712, ../sass/components/_nashim.scss */
+/* line 2717, ../sass/components/_nashim.scss */
 #block-menu-menu-footermenu {
   background-color: #4c4b4b;
   height: 31px;
@@ -5435,17 +5440,17 @@ h2 {
   margin-bottom: 0;
   font-size: 90%;
 }
-/* line 2718, ../sass/components/_nashim.scss */
+/* line 2723, ../sass/components/_nashim.scss */
 #block-menu-menu-footermenu a {
   color: #fff;
 }
 
-/* line 2723, ../sass/components/_nashim.scss */
+/* line 2728, ../sass/components/_nashim.scss */
 #block-block-8 a {
   color: #544c4c !important;
 }
 
-/* line 2727, ../sass/components/_nashim.scss */
+/* line 2732, ../sass/components/_nashim.scss */
 .nivo-caption {
   font-size: 90%;
   opacity: 0.6;
@@ -5455,18 +5460,18 @@ h2 {
 /* 
  *  Reccomended pages & Favorite links
  ******************************************************************/
-/* line 2738, ../sass/components/_nashim.scss */
+/* line 2743, ../sass/components/_nashim.scss */
 .node-type-inspirations .field-collection-container {
   border-bottom: 0;
   margin-bottom: 0;
 }
-/* line 2742, ../sass/components/_nashim.scss */
+/* line 2747, ../sass/components/_nashim.scss */
 .node-type-inspirations .field-collection-view {
   border-bottom: 3px solid #9c0441;
   padding-bottom: 25px;
   margin-bottom: 10px;
 }
-/* line 2747, ../sass/components/_nashim.scss */
+/* line 2752, ../sass/components/_nashim.scss */
 .node-type-inspirations .field-name-field-inspiration-title {
   font-size: 120%;
   color: #9c0441;
@@ -5477,33 +5482,33 @@ h2 {
 /*
  * User register / Login / Forget password forms
  ***********************************************************/
-/* line 2758, ../sass/components/_nashim.scss */
+/* line 2763, ../sass/components/_nashim.scss */
 #edit-mailchimp-lists {
   border: 0;
   padding: 0;
   margin: 0;
 }
-/* line 2762, ../sass/components/_nashim.scss */
+/* line 2767, ../sass/components/_nashim.scss */
 #edit-mailchimp-lists .fieldset-legend {
   font-weight: bold;
   color: #9c0441;
 }
-/* line 2766, ../sass/components/_nashim.scss */
+/* line 2771, ../sass/components/_nashim.scss */
 #edit-mailchimp-lists .form-item {
   margin: 0;
 }
-/* line 2769, ../sass/components/_nashim.scss */
+/* line 2774, ../sass/components/_nashim.scss */
 #edit-mailchimp-lists label.option {
   position: relative;
   right: 0;
   top: -5px;
 }
 
-/* line 2777, ../sass/components/_nashim.scss */
+/* line 2782, ../sass/components/_nashim.scss */
 .page-login {
   background-color: #e9e7e7;
 }
-/* line 2779, ../sass/components/_nashim.scss */
+/* line 2784, ../sass/components/_nashim.scss */
 .page-login #content {
   min-height: 375px !important;
   background-color: #fff;
@@ -5527,12 +5532,12 @@ h2 {
   height: 45px;
 }
 @media all and (max-width: 480px) {
-  /* line 2779, ../sass/components/_nashim.scss */
+  /* line 2784, ../sass/components/_nashim.scss */
   .page-login #content {
     width: 98%;
   }
 }
-/* line 2792, ../sass/components/_nashim.scss */
+/* line 2797, ../sass/components/_nashim.scss */
 .page-login .pane-block-4 {
   color: #938a8a;
   width: 420px;
@@ -5540,17 +5545,17 @@ h2 {
   margin: 100px auto 0;
 }
 
-/* line 2799, ../sass/components/_nashim.scss */
+/* line 2804, ../sass/components/_nashim.scss */
 #login_box {
   width: 416px;
   max-width: 100%;
   margin: 0 auto;
 }
-/* line 2803, ../sass/components/_nashim.scss */
+/* line 2808, ../sass/components/_nashim.scss */
 #login_box #user-login-form {
   margin: 0 auto;
 }
-/* line 2806, ../sass/components/_nashim.scss */
+/* line 2811, ../sass/components/_nashim.scss */
 #login_box input {
   width: 306px;
   max-width: 100%;
@@ -5560,13 +5565,13 @@ h2 {
   height: 20px;
 }
 @media all and (max-width: 480px) {
-  /* line 2806, ../sass/components/_nashim.scss */
+  /* line 2811, ../sass/components/_nashim.scss */
   #login_box input {
     width: 200px;
     max-width: 100%;
   }
 }
-/* line 2818, ../sass/components/_nashim.scss */
+/* line 2823, ../sass/components/_nashim.scss */
 #login_box label {
   font-size: 13px;
   float: right;
@@ -5574,20 +5579,20 @@ h2 {
   font-family: alef !important;
   width: 110px;
 }
-/* line 2825, ../sass/components/_nashim.scss */
+/* line 2830, ../sass/components/_nashim.scss */
 #login_box .form-required {
   float: right;
   color: #9c0441;
 }
-/* line 2829, ../sass/components/_nashim.scss */
+/* line 2834, ../sass/components/_nashim.scss */
 #login_box li {
   display: none;
 }
-/* line 2832, ../sass/components/_nashim.scss */
+/* line 2837, ../sass/components/_nashim.scss */
 #login_box #edit-actions {
   float: left;
 }
-/* line 2834, ../sass/components/_nashim.scss */
+/* line 2839, ../sass/components/_nashim.scss */
 #login_box #edit-actions input {
   background-color: #544c4c;
   border: 0;
@@ -5598,25 +5603,25 @@ h2 {
   width: 97px !important;
   height: 33px !important;
 }
-/* line 2845, ../sass/components/_nashim.scss */
+/* line 2850, ../sass/components/_nashim.scss */
 #login_box h2 {
   color: #9c0441;
   font-size: 22px;
   text-align: right;
   margin-bottom: 0;
 }
-/* line 2851, ../sass/components/_nashim.scss */
+/* line 2856, ../sass/components/_nashim.scss */
 #login_box h5 {
   font-size: 13px;
   color: #9c0441;
   margin-top: 0;
 }
 
-/* line 2858, ../sass/components/_nashim.scss */
+/* line 2863, ../sass/components/_nashim.scss */
 .page-user-reset {
   background-color: #e9e7e7;
 }
-/* line 2860, ../sass/components/_nashim.scss */
+/* line 2865, ../sass/components/_nashim.scss */
 .page-user-reset #content {
   min-height: 300px !important;
   background-color: #fff;
@@ -5629,11 +5634,11 @@ h2 {
   width: 76%;
 }
 
-/* line 2871, ../sass/components/_nashim.scss */
+/* line 2876, ../sass/components/_nashim.scss */
 .page-node-625 {
   background-color: #e9e7e7;
 }
-/* line 2873, ../sass/components/_nashim.scss */
+/* line 2878, ../sass/components/_nashim.scss */
 .page-node-625 #content {
   min-height: 300px !important;
   background-color: #fff;
@@ -5645,7 +5650,7 @@ h2 {
   overflow: hidden;
   width: 76%;
 }
-/* line 2881, ../sass/components/_nashim.scss */
+/* line 2886, ../sass/components/_nashim.scss */
 .page-node-625 #content #read_more {
   background-color: #544c4c;
   color: #fff;
@@ -5655,7 +5660,7 @@ h2 {
   padding: 3px 20px;
 }
 
-/* line 2894, ../sass/components/_nashim.scss */
+/* line 2899, ../sass/components/_nashim.scss */
 .page-user-register #content {
   background-color: #fff;
   -webkit-border-radius: 8px;
@@ -5667,11 +5672,11 @@ h2 {
   width: 76%;
   padding: 2% 16%;
 }
-/* line 2903, ../sass/components/_nashim.scss */
+/* line 2908, ../sass/components/_nashim.scss */
 .page-user-register .tabs-primary {
   display: none;
 }
-/* line 2909, ../sass/components/_nashim.scss */
+/* line 2914, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-user-interest--2 input[type="checkbox"],
 .page-user-register #edit-field-users-sms--2 input[type="checkbox"],
 .page-user-register #edit-terms-of-use--3 input[type="checkbox"] {
@@ -5679,34 +5684,34 @@ h2 {
   top: 5px;
   width: 16px;
 }
-/* line 2916, ../sass/components/_nashim.scss */
+/* line 2921, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image .description {
   display: none;
 }
-/* line 2919, ../sass/components/_nashim.scss */
+/* line 2924, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image input.form-submit {
   width: auto;
   float: left;
 }
-/* line 2923, ../sass/components/_nashim.scss */
+/* line 2928, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image input.form-file {
   margin-left: 10px;
   width: 248px;
   max-width: 100%;
 }
-/* line 2928, ../sass/components/_nashim.scss */
+/* line 2933, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image .ajax-progress-throbber {
   display: none;
 }
-/* line 2931, ../sass/components/_nashim.scss */
+/* line 2936, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image .image-widget-data {
   padding-right: 112px;
 }
-/* line 2933, ../sass/components/_nashim.scss */
+/* line 2938, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image .image-widget-data .file-size {
   margin-left: 10px;
 }
-/* line 2938, ../sass/components/_nashim.scss */
+/* line 2943, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-realname--2,
 .page-user-register #edit-field-user-area--2,
 .page-user-register .form-item-name,
@@ -5720,7 +5725,7 @@ h2 {
   margin-bottom: 35px;
   width: 76%;
 }
-/* line 2950, ../sass/components/_nashim.scss */
+/* line 2955, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-realname--2 label,
 .page-user-register #edit-field-user-area--2 label,
 .page-user-register .form-item-name label,
@@ -5736,7 +5741,7 @@ h2 {
   min-width: 95px;
   font-weight: normal;
 }
-/* line 2956, ../sass/components/_nashim.scss */
+/* line 2961, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-realname--2 input,
 .page-user-register #edit-field-user-area--2 input,
 .page-user-register .form-item-name input,
@@ -5753,7 +5758,7 @@ h2 {
   max-width: 100%;
   width: 306px;
 }
-/* line 2963, ../sass/components/_nashim.scss */
+/* line 2968, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-realname--2 .description,
 .page-user-register #edit-field-user-area--2 .description,
 .page-user-register .form-item-name .description,
@@ -5767,49 +5772,49 @@ h2 {
   float: left;
   margin-left: 10px;
 }
-/* line 2969, ../sass/components/_nashim.scss */
+/* line 2974, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image label {
   position: relative;
   top: 0px;
   right: 0px;
 }
-/* line 2974, ../sass/components/_nashim.scss */
+/* line 2979, ../sass/components/_nashim.scss */
 .page-user-register .field-name-field-user-image .image-widget {
   margin: -10px 0;
 }
-/* line 2979, ../sass/components/_nashim.scss */
+/* line 2984, ../sass/components/_nashim.scss */
 .page-user-register .form-item-pass .description {
   margin-top: -25px;
 }
-/* line 2983, ../sass/components/_nashim.scss */
+/* line 2988, ../sass/components/_nashim.scss */
 .page-user-register #edit-terms-of-use--3,
 .page-user-register #edit-mailchimp-lists--2 {
   border: none;
   margin: 0;
   padding: 0;
 }
-/* line 2988, ../sass/components/_nashim.scss */
+/* line 2993, ../sass/components/_nashim.scss */
 .page-user-register #edit-terms-of-use--3 legend,
 .page-user-register #edit-mailchimp-lists--2 legend {
   display: none;
 }
-/* line 2991, ../sass/components/_nashim.scss */
+/* line 2996, ../sass/components/_nashim.scss */
 .page-user-register #edit-terms-of-use--3 .form-item,
 .page-user-register #edit-mailchimp-lists--2 .form-item {
   margin: 0;
 }
-/* line 2995, ../sass/components/_nashim.scss */
+/* line 3000, ../sass/components/_nashim.scss */
 .page-user-register #edit-mailchimp-lists--2 {
   font-size: 100%;
 }
-/* line 2998, ../sass/components/_nashim.scss */
+/* line 3003, ../sass/components/_nashim.scss */
 .page-user-register #edit-mailchimp-lists--2 input {
   float: right;
   width: 16px;
   top: -2px;
   position: relative;
 }
-/* line 3004, ../sass/components/_nashim.scss */
+/* line 3009, ../sass/components/_nashim.scss */
 .page-user-register #edit-mailchimp-lists--2 .description {
   font-size: 14px;
   margin-right: 15px;
@@ -5817,28 +5822,28 @@ h2 {
   right: 5px;
   color: #9c0441;
 }
-/* line 3012, ../sass/components/_nashim.scss */
+/* line 3017, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-users-sms--2 {
   margin-top: -4px;
 }
-/* line 3014, ../sass/components/_nashim.scss */
+/* line 3019, ../sass/components/_nashim.scss */
 .page-user-register #edit-field-users-sms--2 .form-item {
   margin: 0;
 }
-/* line 3019, ../sass/components/_nashim.scss */
+/* line 3024, ../sass/components/_nashim.scss */
 .page-user-register #edit-terms-of-use--3 a {
   text-decoration: underline;
 }
-/* line 3023, ../sass/components/_nashim.scss */
+/* line 3028, ../sass/components/_nashim.scss */
 .page-user-register .form-required {
   color: #9c0441;
 }
-/* line 3026, ../sass/components/_nashim.scss */
+/* line 3031, ../sass/components/_nashim.scss */
 .page-user-register #edit-actions--2 {
   float: left;
   margin-left: 20px;
 }
-/* line 3029, ../sass/components/_nashim.scss */
+/* line 3034, ../sass/components/_nashim.scss */
 .page-user-register #edit-actions--2 input {
   background-color: #544c4c;
   border: 0;
@@ -5853,7 +5858,7 @@ h2 {
 /*
  * Profile manage pages
  **************************************************************/
-/* line 3048, ../sass/components/_nashim.scss */
+/* line 3053, ../sass/components/_nashim.scss */
 #block-views-profile-galleries-block .tabledrag-toggle-weight-wrapper,
 #block-views-profile-nodes-manager-block-1 .tabledrag-toggle-weight-wrapper {
   display: none;
@@ -5924,27 +5929,27 @@ h2 {
 /*
  * MA HAYA LANO page
  ************************************************************/
-/* line 3061, ../sass/components/_nashim.scss */
+/* line 3066, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page {
   width: 100%;
   margin-bottom: 0;
   margin-top: 10px;
 }
-/* line 3065, ../sass/components/_nashim.scss */
+/* line 3070, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page .views-exposed-form .views-exposed-widget {
   padding-right: 0;
 }
-/* line 3068, ../sass/components/_nashim.scss */
+/* line 3073, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page label {
   margin-top: 10px;
 }
-/* line 3071, ../sass/components/_nashim.scss */
+/* line 3076, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page .views-widget {
   font-size: 13px;
   font-weight: normal;
   font-family: Next-Regular;
 }
-/* line 3075, ../sass/components/_nashim.scss */
+/* line 3080, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page .views-widget input {
   border: 1px solid #9c0441;
   color: #851743;
@@ -5954,44 +5959,44 @@ h2 {
   text-indent: 3px;
   width: 217px;
 }
-/* line 3085, ../sass/components/_nashim.scss */
+/* line 3090, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page .views-submit-button {
   float: left;
   margin-left: 19px;
   padding-top: 0;
   margin-top: -5px;
 }
-/* line 3091, ../sass/components/_nashim.scss */
+/* line 3096, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page #edit-submit-archive-gallery {
   border: 1px solid #9c0441;
   background-color: #fff;
   color: #545252;
 }
-/* line 3096, ../sass/components/_nashim.scss */
+/* line 3101, ../sass/components/_nashim.scss */
 #block-views-exp-archive-gallery-page #edit-submit-archive-gallery:hover {
   border: 1px solid #545252;
   color: #fff;
   background-color: #9c0441;
 }
 
-/* line 3104, ../sass/components/_nashim.scss */
+/* line 3109, ../sass/components/_nashim.scss */
 #block-views-831bc19ad074a9379970f866d0fad0aa {
   padding-top: 0px;
 }
-/* line 3106, ../sass/components/_nashim.scss */
+/* line 3111, ../sass/components/_nashim.scss */
 #block-views-831bc19ad074a9379970f866d0fad0aa a {
   font-family: Next-Regular;
   letter-spacing: 1.5px;
 }
-/* line 3110, ../sass/components/_nashim.scss */
+/* line 3115, ../sass/components/_nashim.scss */
 #block-views-831bc19ad074a9379970f866d0fad0aa .view-content {
   padding-left: 19px;
 }
-/* line 3113, ../sass/components/_nashim.scss */
+/* line 3118, ../sass/components/_nashim.scss */
 #block-views-831bc19ad074a9379970f866d0fad0aa h3 {
   margin-bottom: 0px;
 }
-/* line 3116, ../sass/components/_nashim.scss */
+/* line 3121, ../sass/components/_nashim.scss */
 #block-views-831bc19ad074a9379970f866d0fad0aa .views-row .views-field {
   margin-bottom: 4px;
   padding-left: 19px;
@@ -5999,15 +6004,15 @@ h2 {
   width: 100%;
 }
 
-/* line 3125, ../sass/components/_nashim.scss */
+/* line 3130, ../sass/components/_nashim.scss */
 .view-archive-gallery {
   margin-top: 10px;
 }
-/* line 3127, ../sass/components/_nashim.scss */
+/* line 3132, ../sass/components/_nashim.scss */
 .view-archive-gallery .views-row {
   margin-bottom: 50px;
 }
-/* line 3130, ../sass/components/_nashim.scss */
+/* line 3135, ../sass/components/_nashim.scss */
 .view-archive-gallery .views-field-title {
   font-size: 18px;
   font-family: alef;
@@ -6015,81 +6020,81 @@ h2 {
 }
 
 /*****  videos  ******/
-/* line 3139, ../sass/components/_nashim.scss */
+/* line 3144, ../sass/components/_nashim.scss */
 .view-videos {
   float: left;
   margin: 10px 10px 0 0;
 }
-/* line 3142, ../sass/components/_nashim.scss */
+/* line 3147, ../sass/components/_nashim.scss */
 .view-videos iframe {
   width: 250px;
   height: 190px;
 }
 
-/* line 3149, ../sass/components/_nashim.scss */
+/* line 3154, ../sass/components/_nashim.scss */
 .page-node-edit.node-type-about .form-field-name-field-text {
   clear: both;
 }
 
-/* line 3155, ../sass/components/_nashim.scss */
+/* line 3160, ../sass/components/_nashim.scss */
 .page-node-edit.node-type-main .form-field-name-field-profile-img {
   float: right;
 }
-/* line 3158, ../sass/components/_nashim.scss */
+/* line 3163, ../sass/components/_nashim.scss */
 .page-node-edit.node-type-main .form-field-name-field-my-qoute {
   clear: both;
 }
 
-/* line 3166, ../sass/components/_nashim.scss */
+/* line 3171, ../sass/components/_nashim.scss */
 #media-wysiwyg-format-form #edit-options {
   display: none;
 }
 
-/* line 3172, ../sass/components/_nashim.scss */
+/* line 3177, ../sass/components/_nashim.scss */
 #block-views-profile-menu-items-block .views-field {
   float: left;
   text-align: left;
   width: 100%;
   line-height: 2.1;
 }
-/* line 3178, ../sass/components/_nashim.scss */
+/* line 3183, ../sass/components/_nashim.scss */
 #block-views-profile-menu-items-block .views-field .field-content {
   padding-left: 19px;
 }
-/* line 3181, ../sass/components/_nashim.scss */
+/* line 3186, ../sass/components/_nashim.scss */
 #block-views-profile-menu-items-block .views-field:hover {
   background: url("../images/menu_item.png") no-repeat scroll 0 50%;
 }
-/* line 3184, ../sass/components/_nashim.scss */
+/* line 3189, ../sass/components/_nashim.scss */
 #block-views-profile-menu-items-block a {
   color: #545252;
 }
-/* line 3187, ../sass/components/_nashim.scss */
+/* line 3192, ../sass/components/_nashim.scss */
 #block-views-profile-menu-items-block a:hover, #block-views-profile-menu-items-block a.active {
   color: #9c0441;
 }
 
-/* line 3193, ../sass/components/_nashim.scss */
+/* line 3198, ../sass/components/_nashim.scss */
 .region-sidebar-first #mailchimp-lists-user-subscribe-form-main {
   padding-left: 19px;
 }
 
-/* line 3198, ../sass/components/_nashim.scss */
+/* line 3203, ../sass/components/_nashim.scss */
 .region-sidebar-second #block-views-4ba73b4d1b1da94fcd7d693262140c10 {
   margin-top: -15px;
   margin-bottom: 0;
 }
 
-/* line 3204, ../sass/components/_nashim.scss */
+/* line 3209, ../sass/components/_nashim.scss */
 #block-views-promote-content-block-block {
   padding-top: 40px;
 }
-/* line 3206, ../sass/components/_nashim.scss */
+/* line 3211, ../sass/components/_nashim.scss */
 #block-views-promote-content-block-block .views-row {
   padding-bottom: 20px;
 }
 
-/* line 3212, ../sass/components/_nashim.scss */
+/* line 3217, ../sass/components/_nashim.scss */
 #block-views-page-video-location-block .field-name-field-video-title {
   font-size: 95%;
   padding-bottom: 7px;
@@ -6098,59 +6103,59 @@ h2 {
 /*
  * Edit pages 
  ***********************************************************/
-/* line 3221, ../sass/components/_nashim.scss */
+/* line 3226, ../sass/components/_nashim.scss */
 .form-required {
   color: #9c0441;
 }
 
-/* line 3226, ../sass/components/_nashim.scss */
+/* line 3231, ../sass/components/_nashim.scss */
 .page-user-edit .tabs-secondary {
   margin-top: 0;
 }
 
-/* line 3231, ../sass/components/_nashim.scss */
+/* line 3236, ../sass/components/_nashim.scss */
 #block-system-help {
   border: 2px solid #e9e7e7 !important;
   background-color: #fbf8d4 !important;
   padding: 0 20px 1px;
 }
 
-/* line 3238, ../sass/components/_nashim.scss */
+/* line 3243, ../sass/components/_nashim.scss */
 #profile-gallery-node-form .image-preview {
   width: 20%;
 }
 
-/* line 3243, ../sass/components/_nashim.scss */
+/* line 3248, ../sass/components/_nashim.scss */
 .draggable div.image-widget-data {
   width: 65%;
 }
-/* line 3245, ../sass/components/_nashim.scss */
+/* line 3250, ../sass/components/_nashim.scss */
 .draggable div.image-widget-data .description {
   font-size: 10px;
 }
 
-/* line 3252, ../sass/components/_nashim.scss */
+/* line 3257, ../sass/components/_nashim.scss */
 .node-post-form .form-managed-file .form-file, .node-post-form .form-managed-file .form-submit {
   margin-left: 20px;
 }
-/* line 3255, ../sass/components/_nashim.scss */
+/* line 3260, ../sass/components/_nashim.scss */
 .node-post-form #edit-field-post-image .description {
   display: none;
 }
 
-/* line 3263, ../sass/components/_nashim.scss */
+/* line 3268, ../sass/components/_nashim.scss */
 #edit-field-text .filter-wrapper,
 #edit-body .filter-wrapper,
 .field-type-text-long .filter-wrapper {
   display: none;
 }
-/* line 3266, ../sass/components/_nashim.scss */
+/* line 3271, ../sass/components/_nashim.scss */
 #edit-field-text label,
 #edit-body label,
 .field-type-text-long label {
   margin-bottom: 20px;
 }
-/* line 3269, ../sass/components/_nashim.scss */
+/* line 3274, ../sass/components/_nashim.scss */
 #edit-field-text #edit-actions,
 #edit-body #edit-actions,
 .field-type-text-long #edit-actions {
@@ -6158,45 +6163,45 @@ h2 {
   float: left;
 }
 
-/* line 3276, ../sass/components/_nashim.scss */
+/* line 3281, ../sass/components/_nashim.scss */
 .node-form #edit-actions {
   margin-top: 10px;
   float: left;
 }
 
-/* line 3283, ../sass/components/_nashim.scss */
+/* line 3288, ../sass/components/_nashim.scss */
 #inspirations-node-form .tabledrag-toggle-weight-wrapper {
   display: none;
 }
 
-/* line 3289, ../sass/components/_nashim.scss */
+/* line 3294, ../sass/components/_nashim.scss */
 #edit-field-inpires .sticky-header {
   position: relative !important;
 }
-/* line 3292, ../sass/components/_nashim.scss */
+/* line 3297, ../sass/components/_nashim.scss */
 #edit-field-inpires #edit-field-inpires-und-0-field-inpiration-image,
 #edit-field-inpires #edit-field-inpires-und-0-field-inspiration-text,
 #edit-field-inpires #edit-field-inpires-und-0-field-inspiration-link {
   padding-top: 15px;
 }
 
-/* line 3300, ../sass/components/_nashim.scss */
+/* line 3305, ../sass/components/_nashim.scss */
 #block-views-profile-nodes-manager-block .view-header {
   padding-left: 19px;
   color: #9c0441;
 }
-/* line 3304, ../sass/components/_nashim.scss */
+/* line 3309, ../sass/components/_nashim.scss */
 #block-views-profile-nodes-manager-block .views-field {
   padding-left: 19px;
   margin-bottom: 4px;
 }
-/* line 3308, ../sass/components/_nashim.scss */
+/* line 3313, ../sass/components/_nashim.scss */
 #block-views-profile-nodes-manager-block .views-field:hover,
 #block-views-profile-nodes-manager-block .views-field.active {
   background: url("../images/menu_item.png") no-repeat scroll 0 50% transparent;
 }
 
-/* line 3315, ../sass/components/_nashim.scss */
+/* line 3320, ../sass/components/_nashim.scss */
 #media-browser-page-wrapper h1 {
   border: 0;
   font-size: 100% !important;
@@ -6205,16 +6210,16 @@ h2 {
 /* 
  *  SEARCH RESULTS PAGE
  ******************************************************************/
-/* line 3331, ../sass/components/_nashim.scss */
+/* line 3336, ../sass/components/_nashim.scss */
 #block-views-exp-search-view-page #edit-submit-search-view {
   margin: 0;
 }
 
-/* line 3335, ../sass/components/_nashim.scss */
+/* line 3340, ../sass/components/_nashim.scss */
 .view-search-view {
   margin-top: 40px;
 }
-/* line 3337, ../sass/components/_nashim.scss */
+/* line 3342, ../sass/components/_nashim.scss */
 .view-search-view .views-row {
   border-top: 2px solid #9c0441;
   padding-top: 30px;
@@ -6222,7 +6227,7 @@ h2 {
   min-height: 170px;
   height: 100%;
 }
-/* line 3344, ../sass/components/_nashim.scss */
+/* line 3349, ../sass/components/_nashim.scss */
 .view-search-view .views-field-field-post-image,
 .view-search-view .views-field-field-images-add,
 .view-search-view .views-field-field-status-image,
@@ -6233,7 +6238,7 @@ h2 {
   float: right;
   padding-left: 20px;
 }
-/* line 3354, ../sass/components/_nashim.scss */
+/* line 3359, ../sass/components/_nashim.scss */
 .view-search-view .views-field-field-post-teaser {
   height: 100px;
   margin-top: 30px;
@@ -6243,7 +6248,7 @@ h2 {
 /* 
  *  NEWSLETER PAGE
  ******************************************************************/
-/* line 3365, ../sass/components/_nashim.scss */
+/* line 3370, ../sass/components/_nashim.scss */
 #block-menu-block-6 a {
   font-family: Next-Regular;
   letter-spacing: 1.5px;
@@ -6252,18 +6257,18 @@ h2 {
 /* 
  *  TIPSY DESIGN
  ******************************************************************/
-/* line 3375, ../sass/components/_nashim.scss */
+/* line 3380, ../sass/components/_nashim.scss */
 .tipsy {
   font-size: 13px;
 }
 
-/* line 3378, ../sass/components/_nashim.scss */
+/* line 3383, ../sass/components/_nashim.scss */
 .tipsy-inner {
   background-color: #fff;
   color: #545252;
 }
 
-/* line 3381, ../sass/components/_nashim.scss */
+/* line 3386, ../sass/components/_nashim.scss */
 .tipsy-inner {
   border-radius: 3px;
   -moz-border-radius: 3px;
@@ -6271,7 +6276,7 @@ h2 {
   border: 1px solid #9c0441;
 }
 
-/* line 3388, ../sass/components/_nashim.scss */
+/* line 3393, ../sass/components/_nashim.scss */
 .tipsy-arrow {
   background: url("../images/tipsy.gif") no-repeat top left;
 }
@@ -6279,35 +6284,35 @@ h2 {
 /* 
  *  TEAM PAGE 
  ******************************************************************/
-/* line 3397, ../sass/components/_nashim.scss */
+/* line 3402, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-row {
   clear: both;
   padding-bottom: 40px;
   margin-bottom: 40px;
   border-bottom: 2px solid #9c0441;
 }
-/* line 3403, ../sass/components/_nashim.scss */
+/* line 3408, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-guide-image {
   float: right;
   padding-left: 15px;
 }
-/* line 3407, ../sass/components/_nashim.scss */
+/* line 3412, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-guide-name,
 #block-views-team-page-block .views-field-field-event-guide {
   color: #9c0441;
   font-size: 115%;
 }
-/* line 3412, ../sass/components/_nashim.scss */
+/* line 3417, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-team-job {
   font-size: 115%;
   color: #545252;
 }
-/* line 3416, ../sass/components/_nashim.scss */
+/* line 3421, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-body {
   min-height: 140px;
   overflow: hidden;
 }
-/* line 3420, ../sass/components/_nashim.scss */
+/* line 3425, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-team-mail a {
   color: #545252 !important;
 }
@@ -6315,7 +6320,7 @@ h2 {
 /* 
  *  TEAM PAGE 
  ******************************************************************/
-/* line 3428, ../sass/components/_nashim.scss */
+/* line 3433, ../sass/components/_nashim.scss */
 .pane-help-new-user {
   padding: 20px 30px;
   font-family: alef;
@@ -6326,7 +6331,7 @@ h2 {
   border-radius: 8px;
 }
 
-/* line 3437, ../sass/components/_nashim.scss */
+/* line 3442, ../sass/components/_nashim.scss */
 .pane-help-new-user h2,
 .page-node-566 h2 {
   color: #9c0441 !important;
@@ -6334,14 +6339,14 @@ h2 {
   font-weight: normal !important;
   margin: 0;
 }
-/* line 3445, ../sass/components/_nashim.scss */
+/* line 3450, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .add,
 .page-node-566 .help .help_main .add {
   padding-bottom: 20px;
   margin-bottom: 20px;
   min-height: 40px;
 }
-/* line 3450, ../sass/components/_nashim.scss */
+/* line 3455, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .imageline,
 .page-node-566 .help .help_main .imageline {
   width: 42px;
@@ -6349,7 +6354,7 @@ h2 {
   float: right;
   clear: both;
 }
-/* line 3456, ../sass/components/_nashim.scss */
+/* line 3461, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .textline,
 .page-node-566 .help .help_main .textline {
   width: 90%;
@@ -6357,12 +6362,12 @@ h2 {
   position: relative;
   top: -5px;
 }
-/* line 3462, ../sass/components/_nashim.scss */
+/* line 3467, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .icon_text,
 .page-node-566 .help .help_main .icon_text {
   margin-top: 0;
 }
-/* line 3465, ../sass/components/_nashim.scss */
+/* line 3470, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main p, .pane-help-new-user .help .help_main a, .pane-help-new-user .help .help_main h3, .pane-help-new-user .help .help_main h2, .pane-help-new-user .help .help_main h4,
 .page-node-566 .help .help_main p,
 .page-node-566 .help .help_main a,
@@ -6371,50 +6376,50 @@ h2 {
 .page-node-566 .help .help_main h4 {
   font-family: alef !important;
 }
-/* line 3469, ../sass/components/_nashim.scss */
+/* line 3474, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .add_status .imageline,
 .page-node-566 .help .add_status .imageline {
   background: url("../images/icons/statusadd.png") no-repeat scroll 0 0 transparent;
   position: relative;
   right: -4px;
 }
-/* line 3474, ../sass/components/_nashim.scss */
+/* line 3479, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .add_post .imageline,
 .page-node-566 .help .add_post .imageline {
   background: url("../images/icons/add_post.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3477, ../sass/components/_nashim.scss */
+/* line 3482, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .add_gallery .imageline,
 .page-node-566 .help .add_gallery .imageline {
   background: url("../images/icons/add_gallery.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3480, ../sass/components/_nashim.scss */
+/* line 3485, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .edit_bussiness .imageline,
 .page-node-566 .help .edit_bussiness .imageline {
   background: url("../images/icons/add_status.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3483, ../sass/components/_nashim.scss */
+/* line 3488, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .edit_about .imageline,
 .page-node-566 .help .edit_about .imageline {
   background: url("../images/icons/edit_about.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3486, ../sass/components/_nashim.scss */
+/* line 3491, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .edit_profile .imageline,
 .page-node-566 .help .edit_profile .imageline {
   background: url("../images/icons/edit_profile.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3489, ../sass/components/_nashim.scss */
+/* line 3494, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_page .imageline,
 .page-node-566 .help .help_page .imageline {
   background: url("../images/icons/help-icon.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3493, ../sass/components/_nashim.scss */
+/* line 3498, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer,
 .page-node-566 .help .help_footer {
   clear: both;
   color: #9c0441;
 }
-/* line 3496, ../sass/components/_nashim.scss */
+/* line 3501, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer h2,
 .page-node-566 .help .help_footer h2 {
   color: #9c0441;
@@ -6423,39 +6428,39 @@ h2 {
   font-size: 20px;
   font-weight: bold;
 }
-/* line 3503, ../sass/components/_nashim.scss */
+/* line 3508, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer a,
 .page-node-566 .help .help_footer a {
   color: #9c0441;
 }
-/* line 3506, ../sass/components/_nashim.scss */
+/* line 3511, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer h3,
 .page-node-566 .help .help_footer h3 {
   line-height: 1.5;
   margin-bottom: 5px;
 }
-/* line 3510, ../sass/components/_nashim.scss */
+/* line 3515, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer h4,
 .page-node-566 .help .help_footer h4 {
   margin: 0;
 }
 
-/* line 3519, ../sass/components/_nashim.scss */
+/* line 3524, ../sass/components/_nashim.scss */
 .node-form #edit-shareaholic-options {
   display: none !important;
 }
 
-/* line 3524, ../sass/components/_nashim.scss */
+/* line 3529, ../sass/components/_nashim.scss */
 .node-status-form .vertical-tabs {
   display: none !important;
 }
 
 /******  forum  *******/
-/* line 3532, ../sass/components/_nashim.scss */
+/* line 3537, ../sass/components/_nashim.scss */
 .page-node-993 table {
   width: 100%;
 }
-/* line 3535, ../sass/components/_nashim.scss */
+/* line 3540, ../sass/components/_nashim.scss */
 .page-node-993 .views-field-comment-count {
   background: none;
   color: #333;
