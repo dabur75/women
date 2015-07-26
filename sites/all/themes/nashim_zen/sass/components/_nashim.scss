@@ -2076,6 +2076,7 @@ h2 {
 }
 
 // The sidebar user block with all the details
+
 #ministe_profile_details ,
 #block-views-menu-new-user-block {
   background-color: $gray_dark;
@@ -2141,6 +2142,10 @@ h2 {
       line-height: 3;
     }
   }
+}
+
+#ministe_profile_details a {
+  font-family: Next-Light;
 }
 
 // The icon block on the side
