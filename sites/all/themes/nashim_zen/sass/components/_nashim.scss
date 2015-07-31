@@ -1869,14 +1869,14 @@ h2 {
     background:none;
   }
   img {
-    -webkit-border-radius: 10px 10px 0 0;
-    border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 6px 6px 0px 0px;
+    border-radius: 6px 6px 0px 0px;
   } 
-  .views-field-name {
+  .views-field-field-realname {
     padding: 7px 20px 0 35px; 
     a {
       font-size: 17px;
-      font-family: alef;
+      font-family: Next-Light;
     }
   }
   .views-field-field-my-qoute {
@@ -1901,8 +1901,11 @@ h2 {
     }
     a {
       padding-right: 0;
-      font-size: 13px;
+      font-size: 17px;
       font-family: alef;
+    }
+    .view-post-author-details-sidebar a {
+      font-size: 13px;
     }
     .views-row {
       padding-left:10px;
@@ -1912,8 +1915,21 @@ h2 {
     .view-display-id-block_4 {
       border-bottom: 0;
     }
+    .view-display-id-block_2 {
+      .views-field-title {
+        margin-top: 10px;
+      }
+      a {
+        padding-right: 0;
+        font-weight: bold;
+        font-size: 16px !important;
+        font-family: alef;
+      }
+    }
   }
-  .view-display-id-block_5 {
+
+  .view-display-id-block_5 ,
+  .view-post-author-details-sidebar {
   	padding-bottom: 10px;
 	 .view-header p {
 		 color: #fff !important;
@@ -1922,7 +1938,7 @@ h2 {
 		 font-weight: bold;
 	 } 
 	 .views-row {
-		 line-height: 1.2;
+		 line-height: 1.5;
 	 }
   }
   .view-post-author-details-sidebar .view-display-id-block_1 {
@@ -2305,10 +2321,12 @@ h2 {
       margin-bottom: 10px;
     }
   }
-  .view-footer {
-    font-size: 90%;
-    padding: 0 20px;
-  }
+  .view-profile-gallery {
+    .view-footer {
+      font-size: 90%;
+      padding: 0 20px;
+    }
+  } 
   #comments {
     width: 95%;
     padding: 0 20px;
