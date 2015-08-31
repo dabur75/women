@@ -1761,7 +1761,7 @@ tr.selected td {
 /* line 803, ../sass/components/_misc.scss */
 .progress .filled {
   background-color: #0072b9;
-  background-image: url('../images/progress.gif?1429783886');
+  background-image: url('../images/progress.gif?1440411897');
 }
 
 /**
@@ -6270,23 +6270,24 @@ h2 {
 #block-menu-block-6 a {
   font-family: Next-Regular;
   letter-spacing: 1.5px;
+  text-align: right !important;
 }
 
 /* 
  *  TIPSY DESIGN
  ******************************************************************/
-/* line 3398, ../sass/components/_nashim.scss */
+/* line 3402, ../sass/components/_nashim.scss */
 .tipsy {
   font-size: 13px;
 }
 
-/* line 3401, ../sass/components/_nashim.scss */
+/* line 3405, ../sass/components/_nashim.scss */
 .tipsy-inner {
   background-color: #fff;
   color: #545252;
 }
 
-/* line 3404, ../sass/components/_nashim.scss */
+/* line 3408, ../sass/components/_nashim.scss */
 .tipsy-inner {
   border-radius: 3px;
   -moz-border-radius: 3px;
@@ -6294,7 +6295,7 @@ h2 {
   border: 1px solid #9c0441;
 }
 
-/* line 3411, ../sass/components/_nashim.scss */
+/* line 3415, ../sass/components/_nashim.scss */
 .tipsy-arrow {
   background: url("../images/tipsy.gif") no-repeat top left;
 }
@@ -6302,35 +6303,35 @@ h2 {
 /* 
  *  TEAM PAGE 
  ******************************************************************/
-/* line 3420, ../sass/components/_nashim.scss */
+/* line 3424, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-row {
   clear: both;
   padding-bottom: 40px;
   margin-bottom: 40px;
   border-bottom: 2px solid #9c0441;
 }
-/* line 3426, ../sass/components/_nashim.scss */
+/* line 3430, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-guide-image {
   float: right;
   padding-left: 15px;
 }
-/* line 3430, ../sass/components/_nashim.scss */
+/* line 3434, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-guide-name,
 #block-views-team-page-block .views-field-field-event-guide {
   color: #9c0441;
   font-size: 115%;
 }
-/* line 3435, ../sass/components/_nashim.scss */
+/* line 3439, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-team-job {
   font-size: 115%;
   color: #545252;
 }
-/* line 3439, ../sass/components/_nashim.scss */
+/* line 3443, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-body {
   min-height: 140px;
   overflow: hidden;
 }
-/* line 3443, ../sass/components/_nashim.scss */
+/* line 3447, ../sass/components/_nashim.scss */
 #block-views-team-page-block .views-field-field-team-mail a {
   color: #545252 !important;
 }
@@ -6338,7 +6339,7 @@ h2 {
 /* 
  *  TEAM PAGE 
  ******************************************************************/
-/* line 3451, ../sass/components/_nashim.scss */
+/* line 3455, ../sass/components/_nashim.scss */
 .pane-help-new-user {
   padding: 20px 30px;
   font-family: alef;
@@ -6349,7 +6350,7 @@ h2 {
   border-radius: 8px;
 }
 
-/* line 3460, ../sass/components/_nashim.scss */
+/* line 3464, ../sass/components/_nashim.scss */
 .pane-help-new-user h2,
 .page-node-566 h2 {
   color: #9c0441 !important;
@@ -6357,14 +6358,14 @@ h2 {
   font-weight: normal !important;
   margin: 0;
 }
-/* line 3468, ../sass/components/_nashim.scss */
+/* line 3472, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .add,
 .page-node-566 .help .help_main .add {
   padding-bottom: 20px;
   margin-bottom: 20px;
   min-height: 40px;
 }
-/* line 3473, ../sass/components/_nashim.scss */
+/* line 3477, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .imageline,
 .page-node-566 .help .help_main .imageline {
   width: 42px;
@@ -6372,7 +6373,7 @@ h2 {
   float: right;
   clear: both;
 }
-/* line 3479, ../sass/components/_nashim.scss */
+/* line 3483, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .textline,
 .page-node-566 .help .help_main .textline {
   width: 90%;
@@ -6380,12 +6381,12 @@ h2 {
   position: relative;
   top: -5px;
 }
-/* line 3485, ../sass/components/_nashim.scss */
+/* line 3489, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main .icon_text,
 .page-node-566 .help .help_main .icon_text {
   margin-top: 0;
 }
-/* line 3488, ../sass/components/_nashim.scss */
+/* line 3492, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_main p, .pane-help-new-user .help .help_main a, .pane-help-new-user .help .help_main h3, .pane-help-new-user .help .help_main h2, .pane-help-new-user .help .help_main h4,
 .page-node-566 .help .help_main p,
 .page-node-566 .help .help_main a,
@@ -6394,50 +6395,50 @@ h2 {
 .page-node-566 .help .help_main h4 {
   font-family: alef !important;
 }
-/* line 3492, ../sass/components/_nashim.scss */
+/* line 3496, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .add_status .imageline,
 .page-node-566 .help .add_status .imageline {
   background: url("../images/icons/statusadd.png") no-repeat scroll 0 0 transparent;
   position: relative;
   right: -4px;
 }
-/* line 3497, ../sass/components/_nashim.scss */
+/* line 3501, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .add_post .imageline,
 .page-node-566 .help .add_post .imageline {
   background: url("../images/icons/add_post.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3500, ../sass/components/_nashim.scss */
+/* line 3504, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .add_gallery .imageline,
 .page-node-566 .help .add_gallery .imageline {
   background: url("../images/icons/add_gallery.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3503, ../sass/components/_nashim.scss */
+/* line 3507, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .edit_bussiness .imageline,
 .page-node-566 .help .edit_bussiness .imageline {
   background: url("../images/icons/add_status.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3506, ../sass/components/_nashim.scss */
+/* line 3510, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .edit_about .imageline,
 .page-node-566 .help .edit_about .imageline {
   background: url("../images/icons/edit_about.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3509, ../sass/components/_nashim.scss */
+/* line 3513, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .edit_profile .imageline,
 .page-node-566 .help .edit_profile .imageline {
   background: url("../images/icons/edit_profile.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3512, ../sass/components/_nashim.scss */
+/* line 3516, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_page .imageline,
 .page-node-566 .help .help_page .imageline {
   background: url("../images/icons/help-icon.png") no-repeat scroll 0 0 transparent;
 }
-/* line 3516, ../sass/components/_nashim.scss */
+/* line 3520, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer,
 .page-node-566 .help .help_footer {
   clear: both;
   color: #9c0441;
 }
-/* line 3519, ../sass/components/_nashim.scss */
+/* line 3523, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer h2,
 .page-node-566 .help .help_footer h2 {
   color: #9c0441;
@@ -6446,39 +6447,39 @@ h2 {
   font-size: 20px;
   font-weight: bold;
 }
-/* line 3526, ../sass/components/_nashim.scss */
+/* line 3530, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer a,
 .page-node-566 .help .help_footer a {
   color: #9c0441;
 }
-/* line 3529, ../sass/components/_nashim.scss */
+/* line 3533, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer h3,
 .page-node-566 .help .help_footer h3 {
   line-height: 1.5;
   margin-bottom: 5px;
 }
-/* line 3533, ../sass/components/_nashim.scss */
+/* line 3537, ../sass/components/_nashim.scss */
 .pane-help-new-user .help .help_footer h4,
 .page-node-566 .help .help_footer h4 {
   margin: 0;
 }
 
-/* line 3542, ../sass/components/_nashim.scss */
+/* line 3546, ../sass/components/_nashim.scss */
 .node-form #edit-shareaholic-options {
   display: none !important;
 }
 
-/* line 3547, ../sass/components/_nashim.scss */
+/* line 3551, ../sass/components/_nashim.scss */
 .node-status-form .vertical-tabs {
   display: none !important;
 }
 
 /******  forum  *******/
-/* line 3555, ../sass/components/_nashim.scss */
+/* line 3559, ../sass/components/_nashim.scss */
 .page-node-993 table {
   width: 100%;
 }
-/* line 3558, ../sass/components/_nashim.scss */
+/* line 3562, ../sass/components/_nashim.scss */
 .page-node-993 .views-field-comment-count {
   background: none;
   color: #333;
